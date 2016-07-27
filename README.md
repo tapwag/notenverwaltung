@@ -1,0 +1,2 @@
+# notenverwaltung
+MySQL-basierende Notenverwaltung
